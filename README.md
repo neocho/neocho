@@ -1,4 +1,4 @@
-<img src="https://github.com/neocho/neocho/blob/master/images/img2.jpg" width="30%">
+<img src="https://github.com/neocho/neocho/blob/master/images/img2.jpg" width="80%">
 <!--
 **neocho/neocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
