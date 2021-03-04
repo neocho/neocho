@@ -16,7 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
           config_padding: 0%
           plugin_isocalendar: yes
